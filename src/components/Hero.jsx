@@ -140,7 +140,7 @@ const Hero = () => {
               </motion.a>
 
               <motion.a
-                href="https://linkedin.com/in/abhay-shahu"
+                href="https://www.linkedin.com/in/abhay-shahu-561a212a1/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ y: -3 }}
